@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @Lari-Cassanjo
-- 👀 I’m interested in Python and a little bit of JavaScript
-- 🌱 I’m currently learning everything again cause I stoped studying two years ago
-- 📫 How to reach me: cassanjo_la on Instagram or you can search for Larissa Cassanjo everywhere -I'm the only one-.
-<!---
-Lari-Cassanjo/Lari-Cassanjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="left">Hello, hello!👋</h1>
+
+###
+
+<p align="left">My name is Larissa, studying ADS and I'm trying to make other people's lives easier while complicating my own!</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">✨ Truly complicating myself since 2023<br>📚 The basics of JS are always important, but I'm focused on learning Python now!<br>🎯 Looking for my first professional opportunity in development<br>🎲 Fun fact: I decided to delve deeper into Python when I managed to create a program that chooses a movie for me to watch with the actress I'm a fan of at the moment</p>
+
+###
+
+<h2 align="left">Coding With</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
+
+###
+</div>
+
+###
