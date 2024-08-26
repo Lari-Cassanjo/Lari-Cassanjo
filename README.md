@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Truly complicating myself since 2023<br>📚 The basics of JS are always important, but I'm focused on learning Python now!<br>🎯 Looking for my first professional opportunity in development<br>🎲 Fun fact: I decided to delve deeper into Python when I managed to create a program that chooses a movie for me to watch with the actress I'm a fan of at the moment</p>
+<p align="left">✨ Truly complicating myself since 2024<br>📚 The basics of JS are always important, but I'm focused on learning Python now!<br>🎯 Looking for my first professional opportunity in development<br>🎲 Fun fact: I decided to delve deeper into Python when I managed to create a program that chooses a movie for me to watch with the actress I'm a fan of at the moment</p>
 
 ###
 
