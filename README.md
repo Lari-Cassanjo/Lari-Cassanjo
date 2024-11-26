@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">My name is Larissa, studying ADS and I'm trying to make other people's lives easier while complicating my own!</p>
+<p align="left">Meu nome é Larissa, estudo ADS e estou tentando tornar as vidas de outras pessoas mais fáceis enquanto complico a minha!</p>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
-<p align="left">✨ Truly complicating myself since 2024<br>📚 The basics of JS are always important, but I'm focused on learning Python now!<br>🎯 Looking for my first professional opportunity in development<br>🎲 Fun fact: I decided to delve deeper into Python when I managed to create a program that chooses a movie for me to watch with the actress I'm a fan of at the moment</p>
+<p align="left">✨ Realmente me complicando desde 2024<br>📚 Estudo e me dedico bastante para aprimorar minhas habilidades enquanto uma desenvolvedora fullstack!<br>🎯 Estou em busca de oportunidades profissionais na área de desenvolvimento.<br>🎲 Fun fact: Eu decidi mergulhar mais profundamente no mundo da programação quando consegui criar um programa em Python que sorteia um filme para eu assistir a partir de uma atriz ou diretora.</p>
 
 ###
 
-<h2 align="left">Coding With</h2>
+<h2 align="left">Codando Com</h2>
 
 ###
 
