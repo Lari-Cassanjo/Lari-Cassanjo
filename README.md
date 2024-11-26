@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Codando Com</h2>
+<h2 align="left">Codando Em</h2>
 
 ###
 
@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height="40" alt="css logo"  />
   <img width="12" />
 </div>
 
