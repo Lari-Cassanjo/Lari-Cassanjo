@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Realmente me complicando desde 2024<br>📚 Estudo e me dedico bastante para aprimorar minhas habilidades enquanto uma desenvolvedora fullstack!<br>🎯 Estou em busca de oportunidades profissionais na área de desenvolvimento.<br>🎲 Fun fact: Eu decidi mergulhar mais profundamente no mundo da programação quando consegui criar um programa em Python que sorteia um filme para eu assistir a partir de uma atriz ou diretora.</p>
+<p align="left">✨ Realmente me complicando desde 2024<br>📚 Estudo e me dedico bastante para aprimorar minhas habilidades enquanto uma desenvolvedora back-end!<br>🎯 Estou em busca de oportunidades profissionais na área de desenvolvimento.<br>🎲 Fun fact: Eu decidi mergulhar mais profundamente no mundo da programação quando consegui criar um programa em Python que sorteia um filme para eu assistir a partir de uma atriz ou diretora.</p>
 
 ###
 
