@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height="40" alt="css logo" />
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" height="40" alt="csharp logo" />
   <img width="12" />
 </div>
 
